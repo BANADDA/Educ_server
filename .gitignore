@@ -1,0 +1,22 @@
+# Ignore environment variable files
+.env
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore any temporary files or folders specific to your IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Ignore build files
+dist/
+build/
+
+# Ignore Firebase service account file if you have it in your project directory
+firebase-service-account.json
+
+# Ignore any other files or folders you want to keep out of version control
